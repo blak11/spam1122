@@ -13,9 +13,9 @@ const ERIOSx6 = new Discord.Client();////////////byERIOSx
 
 ERIOSx.login("ODIyNjU1NTYxMzI5Mjc5MDA5.YFVdPQ.mp44MthjPb62X2wG62y7asabo5Q");////////////byERIOSx
 ERIOSx2.login("ODIyNjU4MDc5ODIzNzU3MzYy.YFVfCg.i115hh6eW473wOM2mdNlqZ_NNBc");////////////byERIOSx
-ERIOSx3.login("By ERIOSx");////////////byERIOSx
-ERIOSx4.login("By ERIOSx");////////////byERIOSx
-ERIOSx5.login("By ERIOSx");////////////byERIOSx
+ERIOSx3.login("ODIyNjU5OTU3Njk4MDY4NTAw.YFVhbg.xJvHppNPZlKRsClFvLs1jRJJ-g0");////////////byERIOSx
+ERIOSx4.login("ODIyNTc5NzU4NzQ2Njk3NzI4.YFVixw.XrQ_YhlYt-ZEAGhIWDQAHEV-0hI");////////////byERIOSx
+ERIOSx5.login("ODIyNjYyMzA0NjU4NjIwNDU3.YFVi3g.l1eNOcPjMHhQUeTRyWTgoiBcq1A");////////////byERIOSx
 ERIOSx6.login("By ERIOSx");////////////byERIOSx
 
 //✠▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬ஜ☢❦۞❦☢ஜ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬✠//POULAZ
