@@ -11,8 +11,8 @@ const ERIOSx6 = new Discord.Client();////////////byERIOSx
 
 //✠▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬ஜ☢❦۞❦☢ஜ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬✠//POULAZ
 
-ERIOSx.login(" By ERIOSx");////////////byERIOSx
-ERIOSx2.login("By ERIOSx");////////////byERIOSx
+ERIOSx.login("ODIyNjU1NTYxMzI5Mjc5MDA5.YFVdPQ.mp44MthjPb62X2wG62y7asabo5Q");////////////byERIOSx
+ERIOSx2.login("ODIyNjU4MDc5ODIzNzU3MzYy.YFVfCg.i115hh6eW473wOM2mdNlqZ_NNBc");////////////byERIOSx
 ERIOSx3.login("By ERIOSx");////////////byERIOSx
 ERIOSx4.login("By ERIOSx");////////////byERIOSx
 ERIOSx5.login("By ERIOSx");////////////byERIOSx
