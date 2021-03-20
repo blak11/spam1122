@@ -1,6 +1,6 @@
 const Discord = require("discord.js");////////////byERIOSx
-const myid = ["id xot dane"];////////////byERIOSx
-const prefix = ["#"];////////////byERIOSx
+const myid = ["798341789617750027"];////////////byERIOSx
+const prefix = [""];////////////byERIOSx
 const cmd = require("node-cmd");////////////byERIOSx
 const ERIOSx = new Discord.Client();////////////byERIOSx
 const ERIOSx2 = new Discord.Client();////////////byERIOSx
