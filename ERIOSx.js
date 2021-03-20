@@ -21,17 +21,17 @@ ERIOSx6.login("By ERIOSx");////////////byERIOSx
 //✠▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬ஜ☢❦۞❦☢ஜ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬✠//POULAZ
 
 ERIOSx.on("message", message => {
-  if (message.content === prefix + "d1") {////////////byERIOSx
-    message.channel.send("#daily");
+  if (message.content === prefix + "d") {////////////byERIOSx
+    message.channel.send("owo daily");
   }
-  if (message.content === prefix + "c1") {
-    message.channel.send("#credits");
+  if (message.content === prefix + "c") {
+    message.channel.send("owo cf all");
   }
-  if (message.content === prefix + "p1") {////////////byERIOSx
-    message.channel.send("#profile");
+  if (message.content === prefix + "p") {////////////byERIOSx
+    message.channel.send("owo profile");
   }
-  if (message.content === prefix + "r1") {
-    message.channel.send("#rep " + "<@" + myid + ">");
+  if (message.content === prefix + "r") {
+    message.channel.send("owo rep " + "<@" + myid + ">");
   }
   if (message.content.startsWith(prefix + "s1")) {
     var text = message.content
@@ -43,17 +43,17 @@ ERIOSx.on("message", message => {
 });
 
 ERIOSx2.on("message", message => {
-  if (message.content === prefix + "d2") {
-    message.channel.send("#daily");
+  if (message.content === prefix + "d") {
+    message.channel.send("owo daily");
   }
-  if (message.content === prefix + "c2") {
-    message.channel.send("#credits");
+  if (message.content === prefix + "c") {
+    message.channel.send("owo cf all");
   }
-  if (message.content === prefix + "p2") {
-    message.channel.send("#profile");
+  if (message.content === prefix + "p") {
+    message.channel.send("owo profile");
   }
-  if (message.content === prefix + "r2") {
-    message.channel.send("#rep " + "<@" + myid + ">");
+  if (message.content === prefix + "r") {
+    message.channel.send("owo rep " + "<@" + myid + ">");
   }
   if (message.content.startsWith(prefix + "s2")) {
     var text = message.content
@@ -65,17 +65,17 @@ ERIOSx2.on("message", message => {
 });
 
 ERIOSx3.on("message", message => {
-  if (message.content === prefix + "d3") {
-    message.channel.send("#daily");
+  if (message.content === prefix + "d") {
+    message.channel.send("owo daily");
   }
-  if (message.content === prefix + "c3") {
-    message.channel.send("#credits");
+  if (message.content === prefix + "c") {
+    message.channel.send("owo cf all");
   }
-  if (message.content === prefix + "p3") {
-    message.channel.send("#profile");
+  if (message.content === prefix + "p") {
+    message.channel.send("owo profile");
   }
-  if (message.content === prefix + "r3") {
-    message.channel.send("#rep " + "<@" + myid + ">");
+  if (message.content === prefix + "r") {
+    message.channel.send("owo rep " + "<@" + myid + ">");
   }
   if (message.content.startsWith(prefix + "s3")) {
     var text = message.content
@@ -87,17 +87,17 @@ ERIOSx3.on("message", message => {
 });
 
 ERIOSx4.on("message", message => {
-  if (message.content === prefix + "d4") {
-    message.channel.send("#daily");
+  if (message.content === prefix + "d") {
+    message.channel.send("owo daily");
   }
-  if (message.content === prefix + "c4") {
-    message.channel.send("#credits");
+  if (message.content === prefix + "c") {
+    message.channel.send("owo cf all");
   }
   if (message.content === prefix + "p4") {
     message.channel.send("#profile");
   }
-  if (message.content === prefix + "r4") {
-    message.channel.send("#rep " + "<@" + myid + ">");
+  if (message.content === prefix + "r") {
+    message.channel.send("owo rep " + "<@" + myid + ">");
   }
   if (message.content.startsWith(prefix + "s4")) {
     var text = message.content
@@ -109,17 +109,17 @@ ERIOSx4.on("message", message => {
 });
 
 ERIOSx5.on("message", message => {
-  if (message.content === prefix + "d5") {
-    message.channel.send("#daily");
+  if (message.content === prefix + "d") {
+    message.channel.send("owo daily");
   }
-  if (message.content === prefix + "c5") {
-    message.channel.send("#credits");
+  if (message.content === prefix + "c") {
+    message.channel.send("owo cf all");
   }
-  if (message.content === prefix + "p5") {
-    message.channel.send("#profile");
+  if (message.content === prefix + "p") {
+    message.channel.send("owo profile");
   }
-  if (message.content === prefix + "r5") {
-    message.channel.send("#rep " + "<@" + myid + ">");
+  if (message.content === prefix + "r") {
+    message.channel.send("owo rep " + "<@" + myid + ">");
   }
   if (message.content.startsWith(prefix + "s5")) {
     var text = message.content
@@ -131,17 +131,17 @@ ERIOSx5.on("message", message => {
 });
 
 ERIOSx6.on("message", message => {
-  if (message.content === prefix + "d6") {
-    message.channel.send("#daily");
+  if (message.content === prefix + "d") {
+    message.channel.send("owo daily");
   }
-  if (message.content === prefix + "c6") {
-    message.channel.send("#credits");
+  if (message.content === prefix + "c") {
+    message.channel.send("owocf all");
   }
-  if (message.content === prefix + "p6") {
-    message.channel.send("#profile");
+  if (message.content === prefix + "p") {
+    message.channel.send("owo profile");
   }
-  if (message.content === prefix + "r6") {
-    message.channel.send("#rep " + "<@" + myid + ">");
+  if (message.content === prefix + "r") {
+    message.channel.send("owo rep " + "<@" + myid + ">");
   }
   if (message.content.startsWith(prefix + "s6")) {
     var text = message.content
